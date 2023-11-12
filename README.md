@@ -1,5 +1,5 @@
 # Open 'Tendo
-An Open-Source HardWare (OSHW) recreation of the original 1985 Front-Loading NES motherboard.
+An Open-Source HardWare (OSHW) derivate of the original 1985 Front-Loading NES motherboard. Originally recreated by Redherring32.
 
 
 ## Note on RGB and HDMI:
